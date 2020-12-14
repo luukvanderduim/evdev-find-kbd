@@ -1,0 +1,8 @@
+[dependencies]
+input-linux = '0.4.0'
+
+[package]
+authors = ['Luuk van der Duim <luukvanderduim@gmail.com>']
+edition = '2018'
+name = 'evdev-findkbd'
+version = '0.1.0'
